@@ -99,10 +99,11 @@ Ideal for:
 
 ## 📬 Contact
 
-**Author:**
+**Shubhayan Kundu**  
+Aspiring Data Analyst  
 
-Shubhayan Kundu
+Power BI | Data Modeling | Excel | Data Analytics | Business Intelligence  
 
-Aspiring Data Analyst
-
-Power BI | Data Modeling | Excel | Data Analytics | Business Intelligence
+🔗 LinkedIn: https://www.linkedin.com/in/subhayan-kundu/
+📧 Email: kundusubhayan@gmail.com  
+💻 GitHub: https://github.com/Sub02
