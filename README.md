@@ -151,10 +151,13 @@ This analysis helps stakeholders:
 # 📬 Contact
 
 **Shubhayan Kundu**
+
 Aspiring Data Analyst
 
 Power BI | Excel Analytics | Data Modeling | Business Intelligence
 
 🔗 LinkedIn: https://www.linkedin.com/in/subhayan-kundu/
+
 📧 Email: [kundusubhayan@gmail.com](mailto:kundusubhayan@gmail.com)
+
 💻 GitHub: https://github.com/Sub02
