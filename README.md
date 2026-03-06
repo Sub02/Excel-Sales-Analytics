@@ -99,7 +99,9 @@ Ideal for:
 
 ## 📬 Contact
 
-**Author:**Shubhayan Kundu
+**Author:**
+
+Shubhayan Kundu
 
 Aspiring Data Analyst
 
