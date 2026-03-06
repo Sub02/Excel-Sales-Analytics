@@ -1,111 +1,160 @@
 # 📊 Sales & Financial Performance Analysis | AtliQ Hardwares
 
-## 📌 Project Overview
-
-This project focuses on analyzing **sales, profitability, and market performance** for *AtliQ Hardwares* using **Microsoft Excel**. The goal is to transform raw business data into **meaningful insights** that support data-driven decision-making.
-
-The analysis covers **three fiscal years (2019–2021)** and evaluates performance across customers, markets, and regions through structured Excel reports.
+This project analyzes **sales performance, market trends, and profitability** for AtliQ Hardwares using **Microsoft Excel**.
+The goal is to convert raw business data into structured reports that support **data-driven decision-making**.
 
 ---
 
-## 🎯 Objectives
+# 📌 Problem Statement
 
-* Understand **sales growth trends** across customers and markets
-* Evaluate **profitability and margin performance**
-* Compare **actual performance vs business targets**
-* Build clean, readable, and decision-focused reports
+AtliQ Hardwares operates across multiple markets and sells products through various customers and distribution channels.
+However, the organization lacked structured analytical reports to monitor sales performance and profitability.
 
----
+Without proper analysis, decision-makers struggled to:
 
-## 📈 Key Analyses
+* Identify top-performing customers and markets
+* Track sales growth trends
+* Compare performance against sales targets
+* Understand profitability across regions
 
-### 1️⃣ Customer Performance Analysis
-
-* Analyzed **net sales by customer** from 2019 to 2021
-* Calculated **year-over-year (YoY) growth**
-* Identified high-growth and key revenue-contributing customers
-
-### 2️⃣ Market Performance vs Target
-
-* Compared **actual sales vs targets** by region and country
-* Identified underperforming and overperforming markets
-* Highlighted gaps to support corrective business actions
-
-### 3️⃣ Profit & Loss (P&L) Analysis
-
-* Built detailed P&L reports **by fiscal year, month, and market**
-* Analyzed:
-
-  * Net Sales
-  * Cost of Goods Sold (COGS)
-  * Gross Margin
-  * Gross Margin %
-* Evaluated profitability trends and margin pressure over time
+This project transforms raw sales data into **structured Excel reports that provide actionable business insights**.
 
 ---
 
-## 🛠️ Tools & Techniques Used
+# 🎯 Project Objectives
 
-* **Microsoft Excel**
-* Pivot Tables & Pivot Charts
-* Power Query for data cleaning and transformation
-* Lookup functions (VLOOKUP, INDEX-MATCH, XLOOKUP)
-* KPI calculations and variance analysis
-* Structured tables and professional formatting
+The main objectives of this project were:
 
----
-
-## 🧠 Key Learnings
-
-* Worked with **large datasets (1M+ records)**
-* Handled **missing values, formatting issues, and data type errors**
-* Learned that **sales growth does not always mean profit growth**
-* Developed a strong **problem-solving and analytical mindset**
+* Analyze **customer sales performance**
+* Evaluate **market performance vs targets**
+* Build **Profit & Loss (P&L) reports**
+* Identify **sales growth and profitability trends**
+* Present insights through **structured Excel reports**
 
 ---
 
-## 📂 Project Structure
+# 🗂 Dataset Overview
 
-```
-├── Customer Performance Report
-├── Market Performance vs Target
-├── P & L by Month
-├── P & L by Market
-├── P & L by Year
-└── README.md
-```
+The dataset contains transactional sales data for **AtliQ Hardwares** covering:
 
----
+* Fiscal years **2019 – 2021**
+* Multiple customers and markets
+* Product-level sales data
 
-## 📌 Outcome
-
-This project demonstrates the ability to:
-
-* Analyze real-world sales and financial data
-* Convert numbers into **actionable business insights**
-* Build structured, readable, and decision-oriented Excel reports
+The dataset includes **large volumes of sales records**, requiring data cleaning and transformation before analysis.
 
 ---
 
-## 🚀 Use Case
+# 🧹 Data Cleaning & Preparation
 
-Ideal for:
+Data preparation was performed using **Power Query and Excel transformations**.
 
-* Data Analyst / Business Analyst roles
-* Excel-based analytics projects
-* Business performance and financial analysis
+Key steps included:
+
+* Removing duplicate records
+* Handling missing values
+* Correcting inconsistent formats
+* Standardizing column data types
+* Preparing structured tables for analysis
 
 ---
 
-## 📬 Contact
+# 📈 Key Analyses
 
-**Shubhayan Kundu**  
-Aspiring Data Analyst  
+## 1️⃣ Customer Performance Analysis
 
-Power BI | Data Modeling | Excel | Data Analytics | Business Intelligence  
+* Evaluated **Net Sales by customer**
+* Calculated **Year-over-Year sales growth**
+* Identified top revenue-generating customers
+
+---
+
+## 2️⃣ Market Performance vs Target
+
+* Compared **actual sales vs targets**
+* Evaluated performance across **regions and countries**
+* Identified underperforming markets
+
+---
+
+## 3️⃣ Profit & Loss Analysis
+
+Built P&L reports across:
+
+* Fiscal Year
+* Month
+* Market
+
+Key financial metrics analyzed:
+
+* Net Sales
+* Cost of Goods Sold (COGS)
+* Gross Margin
+* Gross Margin %
+
+---
+
+# 🛠 Tools & Techniques Used
+
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Power Query
+* VLOOKUP / INDEX-MATCH / XLOOKUP
+* KPI calculations
+* Variance analysis
+
+---
+
+# 📊 Report Preview
+
+Below are examples of the analytical reports created in this project.
+
+*(Add screenshots of your Excel reports here)*
+
+---
+
+# 📂 Project Reports
+
+You can access the full analytical reports below.
+
+📄 Customer Performance Report
+[View Report](CUSTOMER%20PERFORMANCE%20REPORT.pdf)
+
+📄 Market Performance vs Target
+[View Report](MARKET%20PERFORMANCE%20VS%20TARGET.pdf)
+
+📄 Profit & Loss Analysis
+
+P&L by Month
+[View Report](P%20%26%20L%20BY%20MONTH.pdf)
+
+P&L by Market
+[View Report](P%20%26%20L%20BY%20MARKET.pdf)
+
+P&L by Year
+[View Report](P%20%26%20L%20BY%20YEAR.pdf)
+
+---
+
+# 📌 Business Impact
+
+This analysis helps stakeholders:
+
+* Identify profitable customers and markets
+* Track sales performance trends
+* Monitor target achievement
+* Improve strategic business decisions
+
+---
+
+# 📬 Contact
+
+**Shubhayan Kundu**
+Aspiring Data Analyst
+
+Power BI | Excel Analytics | Data Modeling | Business Intelligence
 
 🔗 LinkedIn: https://www.linkedin.com/in/subhayan-kundu/
-
-📧 Email: kundusubhayan@gmail.com  
-
+📧 Email: [kundusubhayan@gmail.com](mailto:kundusubhayan@gmail.com)
 💻 GitHub: https://github.com/Sub02
