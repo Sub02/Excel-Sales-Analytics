@@ -99,5 +99,9 @@ Ideal for:
 
 ## 📬 Contact
 
-**Author:** Shubhayan Kundu
-Feel free to connect with me on LinkedIn for feedback, collaboration, or opportunities.
+**Author:**
+Shubhayan Kundu
+
+Aspiring Data Analyst
+
+Power BI | Data Modeling | Excel | Data Analytics | Business Intelligence
