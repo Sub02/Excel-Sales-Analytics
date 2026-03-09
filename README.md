@@ -137,6 +137,12 @@ P&L by Year
 
 ---
 
+## 🎥 Project Explanation Video
+
+[![Watch the video](https://img.youtube.com/vi/k8br6hYDRTQ/maxresdefault.jpg)](https://youtu.be/k8br6hYDRTQ)
+
+---
+
 # 📌 Business Impact
 
 This analysis helps stakeholders:
